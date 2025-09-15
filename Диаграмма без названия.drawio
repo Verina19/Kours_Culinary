@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36" version="28.2.1">
   <diagram name="Страница — 1" id="hxAlBKzg6dB8jV-8MOA7">
-    <mxGraphModel dx="3431" dy="1701" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3859" dy="1941" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -236,25 +236,19 @@
           <mxGeometry x="804" y="545" width="79" height="17" as="geometry" />
         </mxCell>
         <mxCell id="8uDyzMG2kiNjOE6CG9MQ-14" value="&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Консультанты&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="804" y="578.72" width="79" height="17" as="geometry" />
+          <mxGeometry x="804" y="607" width="79" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="-1O32Q1-8I3LafQnvX9C-1" value="1) гла офис со всми, кроме производства&lt;br&gt;1.1) офисы - филиалы&lt;br&gt;2) производство - другие здания&lt;br&gt;3) сайт для заказов&lt;br&gt;4) физический магазин&amp;nbsp;&lt;div&gt;5) транспортировка&lt;/div&gt;&lt;div&gt;6) доставка?&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-1O32Q1-8I3LafQnvX9C-1" value="1) гла офис со всми, кроме производства&lt;br&gt;1.1) офисы - филиалы&lt;br&gt;2) производство - другие здания&lt;br&gt;3) сайт для заказов&lt;br&gt;4) физический магазин&amp;nbsp;&lt;div&gt;5) транспортировка&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2143" y="64.24" width="264" height="137.06" as="geometry" />
         </mxCell>
         <mxCell id="-1O32Q1-8I3LafQnvX9C-2" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Транспортировка&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="536" y="545.36" width="90" height="16.28" as="geometry" />
+          <mxGeometry x="567" y="547.72" width="90" height="16.28" as="geometry" />
         </mxCell>
         <mxCell id="-1O32Q1-8I3LafQnvX9C-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-1O32Q1-8I3LafQnvX9C-7" target="-1O32Q1-8I3LafQnvX9C-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-1O32Q1-8I3LafQnvX9C-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-1O32Q1-8I3LafQnvX9C-7" target="-1O32Q1-8I3LafQnvX9C-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="-1O32Q1-8I3LafQnvX9C-7" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Глава отдела логистики&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="552" y="476" width="120" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="-1O32Q1-8I3LafQnvX9C-12" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Доставка&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="633" y="543.28" width="55" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
